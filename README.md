@@ -2,7 +2,6 @@
 
 ## Projects
 ### Project 1
-
 - Description
 - Links
 
@@ -10,5 +9,9 @@
 - Description
 - Links
 
+# Education
+- Some university
+
 # Work  History
 - Work place 1
+- Work place 2
