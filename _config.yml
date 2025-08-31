@@ -4,7 +4,6 @@ description: My portfolio for interfaces
 #show_downloads: true
 theme: jekyll-theme-minimal
 
-# 👇 para enlazar tu CSS
 plugins:
   - jekyll-include-cache
 
