@@ -3,7 +3,7 @@
 ## Projects
 ### Project 1
 - Description
-- Links
+logo: docs/assets/d82b280d0cab5c378e4ddda560783896.jpg
 
 ### Project 2
 - Description
